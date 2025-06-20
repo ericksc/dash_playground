@@ -1,0 +1,5 @@
+Dash==2.5.1
+Flask==2.2.2
+pandas==1.4.3
+numpy==1.23.1
+plotly==5.10.0
