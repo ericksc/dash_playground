@@ -1,1 +1,0 @@
-# Este archivo se utiliza para definir componentes adicionales de la aplicación Dash. Puede contener funciones o clases que se utilizan en app.py.
